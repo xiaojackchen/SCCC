@@ -121,8 +121,8 @@
     <ClInclude Include="coordin.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\download\源代码\C++ Primer Plus第6版中文版源代码\Chapter 9\external.cpp" />
-    <ClCompile Include="..\..\..\download\源代码\C++ Primer Plus第6版中文版源代码\Chapter 9\support.cpp" />
+    <ClCompile Include="external.cpp" />
+    <ClCompile Include="support.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

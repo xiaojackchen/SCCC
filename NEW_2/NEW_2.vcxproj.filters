@@ -20,10 +20,10 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\download\源代码\C++ Primer Plus第6版中文版源代码\Chapter 9\external.cpp">
+    <ClCompile Include="external.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\download\源代码\C++ Primer Plus第6版中文版源代码\Chapter 9\support.cpp">
+    <ClCompile Include="support.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
